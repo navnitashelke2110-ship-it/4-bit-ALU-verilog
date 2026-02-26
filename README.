@@ -1,0 +1,18 @@
+# 4-bit ALU (Addition Only) – Verilog Project
+
+## Overview
+This project implements a 4-bit ALU that performs addition using Verilog HDL.
+
+## Files
+- alu.v  
+- alu_tb.v  
+- report.md  
+
+## Operation
+Opcode:
+- 000 → ADD
+
+## Tools Used
+- ModelSim
+- Vivado
+- Icarus Verilog
